@@ -1,1 +1,1 @@
-# Gold-price-prediction
+# USO Stock Price Prediction
