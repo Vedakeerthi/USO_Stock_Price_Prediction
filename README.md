@@ -6,7 +6,6 @@
   * [Appendix](#appendix)
   * [Links](#links)
   * [Directory Tree](#directory_tree)
-  * [Deep Learning Model Structure](#deep_learning_structure)
   * [Features](#features)
   * [Run Locally](#run_locally)
   * [License](#license)
@@ -16,8 +15,8 @@
 
 | Method Used      | Result                              | 
 | :---             | :----:                              |   
-| ARIMA MODEL      | ![](Results_of_Arima_Model.png)     | 
-| LSTM             | ![](Results_of_LSTM.png)            | 
+| ARIMA MODEL      | ![Results of ARIMA](Results%20of%20Arima%20Model.png) | 
+| LSTM             | ![Results of LSTM](Results%20of%20LSTM.png)           | 
 
 1. RESULT OF ARIMA MODEL
 ![](Results_of_Arima_Model.png)
@@ -55,18 +54,14 @@ The development of the model is present in [main.ipynb](https://github.com/Vedak
 ## Directory Tree <a name='directory_tree'></a>
 
 ```
+├── Datasets
+    ├── FINAL_USO.xls
 ├── LICENSE
 ├── README.md
-├── ann.png
-├── ann2.png
-├── ann_architecture.png
-├── app.py
-|── lstm.png
-├── main.ipynb
-|── model_result.gif
+├── Results of Arima Model.png
+├── Results of LSTM.png
+├── USO Stock Price Prediction.ipynb
 ├── requirements.txt
-|── rnn.png
-├── y_pred.csv
 ```
  
 ## Features
@@ -103,7 +98,6 @@ Start the server and run the file
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="scikit_learn" width="70" height="40"/> </a> &nbsp;
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a> &nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/seaborn.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;
-<a href="https://pypi.org/project/streamlit/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/streamlit.svg" alt="streamlit" width="40" height="40"> </a> &nbsp;
 
