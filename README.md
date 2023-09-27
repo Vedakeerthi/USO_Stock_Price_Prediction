@@ -18,12 +18,6 @@
 | ARIMA MODEL      | ![Results of ARIMA](Results%20of%20Arima%20Model.png) | 
 | LSTM             | ![Results of LSTM](Results%20of%20LSTM.png)           | 
 
-1. RESULT OF ARIMA MODEL
-![](Results_of_Arima_Model.png)
-
-2. RESULT OF LSTM
-![](Results_of_LSTM.png)
-
 ## Synopsis
 
 United States Oil ETF Stock is forecasted from the period of 2018 to 2019, by using the previous year's data from the period of 2011 to 2018, I have considered both statistical and as well as machine-learning approaches, the dataset is scraped from an online website and with overall more information about the data, I have only considered the date and the close value of the stock, since with the help of those two data we are going to forecast the values and find out which approach have performed well.
